@@ -1,0 +1,39 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/npm-debug.log*
+/yarn-error.log
+
+# production
+/dist
+/coverage
+
+# misc
+.DS_Store
+.idea
+.vscode
+
+#vscode
+/.vscode
+
+coverage/
+test/
+docs
+node_modules
+scripts
+.babelrc
+.eslintignore
+.eslintrc.js
+.editorconfig
+.prettierignore
+.prettierrc.js
+.gitignore
+jsdoc.config.json
+karma.conf.js
+dist
+.github
+yarn-error.log
+yarn.lock
+tsconfig.json
+tslint.json
